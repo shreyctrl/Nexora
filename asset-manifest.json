@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Nexora/static/css/main.fedb4e3f.css",
-    "main.js": "/Nexora/static/js/main.17696b4d.js",
+    "main.css": "/Nexora/static/css/main.a9ecd5c9.css",
+    "main.js": "/Nexora/static/js/main.1eceb7aa.js",
     "static/js/453.18dc7b14.chunk.js": "/Nexora/static/js/453.18dc7b14.chunk.js",
+    "static/media/logo.png": "/Nexora/static/media/logo.2bb99f112e0dfde69c4f.png",
     "index.html": "/Nexora/index.html",
-    "main.fedb4e3f.css.map": "/Nexora/static/css/main.fedb4e3f.css.map",
-    "main.17696b4d.js.map": "/Nexora/static/js/main.17696b4d.js.map",
+    "main.a9ecd5c9.css.map": "/Nexora/static/css/main.a9ecd5c9.css.map",
+    "main.1eceb7aa.js.map": "/Nexora/static/js/main.1eceb7aa.js.map",
     "453.18dc7b14.chunk.js.map": "/Nexora/static/js/453.18dc7b14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fedb4e3f.css",
-    "static/js/main.17696b4d.js"
+    "static/css/main.a9ecd5c9.css",
+    "static/js/main.1eceb7aa.js"
   ]
 }
