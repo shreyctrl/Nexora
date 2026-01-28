@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Nexora/static/css/main.30655c6f.css",
-    "main.js": "/Nexora/static/js/main.fd2e6e47.js",
+    "main.js": "/Nexora/static/js/main.4153b947.js",
     "static/js/453.18dc7b14.chunk.js": "/Nexora/static/js/453.18dc7b14.chunk.js",
     "static/media/logo.png": "/Nexora/static/media/logo.2bb99f112e0dfde69c4f.png",
     "index.html": "/Nexora/index.html",
     "main.30655c6f.css.map": "/Nexora/static/css/main.30655c6f.css.map",
-    "main.fd2e6e47.js.map": "/Nexora/static/js/main.fd2e6e47.js.map",
+    "main.4153b947.js.map": "/Nexora/static/js/main.4153b947.js.map",
     "453.18dc7b14.chunk.js.map": "/Nexora/static/js/453.18dc7b14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30655c6f.css",
-    "static/js/main.fd2e6e47.js"
+    "static/js/main.4153b947.js"
   ]
 }
